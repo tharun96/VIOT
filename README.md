@@ -1,8 +1,8 @@
 # VIOT
 smart voting using iot with facial and finger recognition
 this uses api to find out the correct face matched or not 
-it uses the R305 module fingerprint Sensor and a Raspberry pi USB TTL converter to work with the fingerprint
-the library for finger print can be downloaded 
+it uses the R305 module fingerprint Sensor and a Raspberry pi USB TTL converter to work with the fingerprint.
+The library for finger print can be downloaded 
 
 1)sudo bash
 
